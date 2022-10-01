@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
 # kavsoft-swiftui-animations
 
 <!-- ![](https://raw.githubusercontent.com/recherst/img-hosting/main/imgs/swiftui-badge.jpg) -->
@@ -31,7 +19,7 @@ Kindly welcome to become a patron to support them! ❤️
 
 ## Content List
 
-1. [Metaball Animation - Canvas - TimelineView | Kavsoft](https://youtu.be/hfKGLJejAEw)  Project: **Metaball**
+1. [Metaball Animation - Canvas - TimelineView | YouTube](https://youtu.be/hfKGLJejAEw)  Project: **Metaball**
 
 
 ## My Development Environment
