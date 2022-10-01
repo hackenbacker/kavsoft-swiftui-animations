@@ -13,7 +13,7 @@ Kindly welcome to become a patron to support them! ❤️
 
 ## Example apps
 
-| <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/metaball-480.gif" width=256 /> | | |
+| <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/metaball-256.gif" /> | | |
 | :-------------------------------------------: | :----------------------------------------: | -------------------------------------------- |
 |  |  |  |
 
