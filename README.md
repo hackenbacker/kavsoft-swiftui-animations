@@ -1,6 +1,6 @@
 # kavsoft-swiftui-animations
 
-<img src="https://github.com/hackenbacker/image-host/blob/main/imgs/swftui-badge.png" width=768>
+<img src="https://github.com/hackenbacker/image-host/blob/main/imgs/swiftui-badge.png" width=768>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
