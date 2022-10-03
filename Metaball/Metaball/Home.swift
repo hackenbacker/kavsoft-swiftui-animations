@@ -31,8 +31,8 @@ struct Home: View {
                 .padding(15)
 
             Picker("", selection: $selected) {
-                ForEach(MetaballOption.allCases) { option in
-                    Text(option.rawValue).tag(option)
+                ForEach(MetaballOption.allCases, id: \.self) { option in
+                    Text(option.rawValue)
                 }
             }
             .pickerStyle(.segmented)
