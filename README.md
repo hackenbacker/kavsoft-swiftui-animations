@@ -24,6 +24,6 @@ Kindly welcome to become a patron to support them! ❤️
 
 ## My Development Environment
 * Xcode 14.1 beta 3
+* Swift 5.7.1
 * iOS 16.1 beta 3
 * macOS 12.6 Monterey
-* Apple M1 Ultra (64GB)
