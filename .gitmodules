@@ -1,3 +1,6 @@
 [submodule "Metaball"]
 	path = Metaball
 	url = https://github.com/hackenbacker/Metaball.git
+[submodule "BlurredSheet"]
+	path = BlurredSheet
+	url = git@github.com:hackenbacker/BlurredSheet.git
