@@ -13,14 +13,14 @@ Kindly welcome to become a patron to support them! ❤️
 
 ## Example apps
 
-| <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/metaball-256.gif" /> | | |
+| <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/metaball-256.gif" /> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/BlurredSheet/BlurredSheet-256.gif" /> | |
 | :-------------------------------------------: | :----------------------------------------: | -------------------------------------------- |
 |  |  |  |
 
 ## Content List
 
 1. [Metaball Animation - Canvas - TimelineView | YouTube](https://youtu.be/hfKGLJejAEw)  Project: **Metaball**
-
+2. [Blurred Bottom Sheet - Removing Background of Sheets | YouTube](https://youtu.be/NE1ZIK0PGTI)  Project: **BlurredSheet**
 
 ## My Development Environment
 * Xcode 14.2
