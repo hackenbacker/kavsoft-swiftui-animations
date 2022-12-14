@@ -23,7 +23,7 @@ Kindly welcome to become a patron to support them! ❤️
 
 
 ## My Development Environment
-* Xcode 14.1 beta 3
-* Swift 5.7.1
-* iOS 16.1 beta 3
-* macOS 12.6 Monterey
+* Xcode 14.2
+* Swift 5.7.2
+* iOS 16.2
+* macOS 13.1 Ventura
