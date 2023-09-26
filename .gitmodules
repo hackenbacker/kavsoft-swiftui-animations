@@ -4,3 +4,6 @@
 [submodule "BlurredSheet"]
 	path = BlurredSheet
 	url = git@github.com:hackenbacker/BlurredSheet.git
+[submodule "HeartAnimation"]
+	path = HeartAnimation
+	url = https://github.com/hackenbacker/HeartAnimation.git
