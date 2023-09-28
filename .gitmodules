@@ -7,3 +7,6 @@
 [submodule "HeartAnimation"]
 	path = HeartAnimation
 	url = https://github.com/hackenbacker/HeartAnimation.git
+[submodule "SwipeToHideNavBar"]
+	path = SwipeToHideNavBar
+	url = https://github.com/hackenbacker/SwipeToHideNavBar.git
