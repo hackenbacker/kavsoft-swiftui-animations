@@ -12,15 +12,18 @@ All demos in this repo were written by SwiftUI 4 or later. The only purpose of t
 
 ## Example apps
 
-| <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/metaball-256.gif"> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/BlurredSheet/BlurredSheet-256.gif"> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/HeartAnimation/HeartAnimation-256.gif"> |
+| <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/metaball-256.gif"> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/BlurredSheet/BlurredSheet-256.gif"> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/SwipeToHideNavBar/SwipeToHideNavBar-256.gif"> |
 | :-------------------------------------------: | :----------------------------------------: | -------------------------------------------- |
-|  |  |  |
+| <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/HeartAnimation/HeartAnimation-256.gif"> |  |  |
 
 ## Content List
 
-1. [Metaball Animation - Canvas - TimelineView | YouTube](https://youtu.be/hfKGLJejAEw)  Project: **Metaball**
-2. [Blurred Bottom Sheet - How to remove SwiftUI Sheets Background | YouTube](https://youtu.be/NE1ZIK0PGTI)  Project: **BlurredSheet**
-3. [WatchOS 10 Heart App Animation Using SwiftUI | YouTube](https://www.youtube.com/watch?v=kZKI-BImtLE)  Project: **HeartAnimation**
+| No. | Reference  | Project  |
+|---|---|---|
+| 1  | [Metaball Animation - Canvas - TimelineView \| YouTube](https://youtu.be/hfKGLJejAEw) | [Metaball](https://github.com/hackenbacker/Metaball) |
+| 2  | [Blurred Bottom Sheet - How to remove SwiftUI Sheets Background \| YouTube](https://youtu.be/NE1ZIK0PGTI)  | [BlurredSheet](https://github.com/hackenbacker/BlurredSheet) |
+| 3  |  [Hide Navigation Bar On Swipe - iOS 17 - Xcode 15 \| YouTube](https://youtu.be/_oFMZaXIgPc?si=ZPcJCE5Bjnogfk40) | [SwipeToHideNavBar](https://github.com/hackenbacker/SwipeToHideNavBar) |
+| 4  | [WatchOS 10 Heart App Animation Using SwiftUI \| YouTube](https://www.youtube.com/watch?v=kZKI-BImtLE) | [HeartAnimation](https://github.com/hackenbacker/HeartAnimation) |
 
 ## My Development Environment
 * Xcode 15.0
