@@ -12,7 +12,7 @@ All demos in this repo were written by SwiftUI 4 or later. The only purpose of t
 
 ## Example apps
 
-| <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/metaball-256.gif"> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/BlurredSheet/BlurredSheet-256.gif"> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/SwipeToHideNavBar/SwipeToHideNavBar-256.gif"> |
+| <a href="https://github.com/hackenbacker/Metaball"><img src="https://github.com/hackenbacker/image-host/blob/main/imgs/Metaball/Metaball-256.gif"></a> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/BlurredSheet/BlurredSheet-256.gif"> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/SwipeToHideNavBar/SwipeToHideNavBar-256.gif"> |
 | :-------------------------------------------: | :----------------------------------------: | -------------------------------------------- |
 | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/HeartAnimation/HeartAnimation-256.gif"> |  |  |
 
